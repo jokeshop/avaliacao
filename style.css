@@ -1,0 +1,130 @@
+html,body { overflow-x: hidden; }
+
+.Areafotos{
+    background-color: rgb(166,207,229) ;
+    height: 300;
+
+    border-radius: 20px;
+}
+.img{
+    height: 300;
+   
+    border-radius: 7px;
+
+   
+}
+.miniimg{
+    height: 50px;
+    border-radius: 7px;
+
+
+}
+.H3mengo{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: black;
+}
+.efeito-3{
+    background:    rgb(166,207,229)  ;
+    color: white;
+    border-color:  rgb(166,207,229);
+    width: 200px;
+    box-shadow: inset 0 0 0 2px black;
+    font-family:'Comfortaa', cursive ;
+    font-size: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+          box-shadow:         -10px 12px 7px blue;
+          text-decoration: none;
+          text-align: center;
+  }
+  
+  .efeito-3:hover{
+    background-color:blue;
+    color: white;
+     box-shadow: inset 0 0 0 3px rgb(166,207,229); 
+    width: 100px;
+    border:none;
+    font-family:'Comfortaa', cursive ;
+    font-size: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow:         -10px 12px 7px rgb(166,207,229);
+    text-decoration: none;
+
+    
+  }
+  .areaperguntas{
+    width: 305px;
+    
+    background-color:white;
+    font-family:'Comfortaa', cursive ;
+    text-align: center;
+    border-radius: 7px;
+  }
+
+  .areaModelos{
+     width: 300px;
+      background-color:white; 
+      border-radius: 7px;
+  }
+  .efeito{
+    border: none;
+    color: #ffffff;
+    padding: 20px;
+    margin: 10px;
+    font-size: 17px;
+    line-height: 24px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+  }
+  .efeito-3{
+    background:   red ;
+    color: white;
+    box-shadow: inset 0 0 0 2px black;
+    font-family:'Comfortaa', cursive ;
+    font-size: 20px;
+    -webkit-box-shadow: -10px 12px 7px rgb(92, 173, 56);
+          -moz-box-shadow:    -10px 12px 7px rgb(92, 173, 56);
+          box-shadow:         -10px 12px 7px rgb(228, 100, 100 );
+  }
+  
+  .efeito-3:hover{
+    background-color: red;
+    color: white;
+    /* box-shadow: inset 0 0 0 3px rgb(92, 173, 56); */
+    width: 250px;
+    font-family:'Comfortaa', cursive ;
+    font-size: 20px;
+    -webkit-box-shadow: -10px 12px 7px rgb(247, 228, 224);
+    -moz-box-shadow:    -10px 12px 7px rgb(247, 228, 224);
+    box-shadow:         -10px 12px 7px red;
+    
+  }
+  .imgstilo{
+    border-top-left-radius: 20px;
+    border-bottom-right-radius:20px;
+
+  }
+  .imgstilo:hover{
+    height:210px;
+  }
+
+  .areaCompras{
+  
+    background-color:white;
+   
+  border-radius: 7px;
+
+
+  }
+  
+  .areaCompra{
+       background-color:white ;
+   
+    border-radius: 7px;
+  }
